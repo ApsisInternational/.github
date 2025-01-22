@@ -3,7 +3,8 @@
 ![Apsis Image](https://mb.cision.com/Public/2686/3402836/a3f67cb44d809308_800x800ar.png)
 
 ### Read more
-You can read more about our next-generation MarTech solution APSIS One by going to: https://www.apsis.com/
+You can read more about our next-generation MarTech solution APSIS One by going to: [www.apsis.com](https://www.apsis.com/ ) 
+
 Or sign up for a [Free Trial](https://www.apsis.com/free-trial)!
 
 ### You will also be able to find our repositories for our Open Source integration plugins here:
